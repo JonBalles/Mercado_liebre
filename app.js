@@ -13,4 +13,4 @@ app.get("/", (req, res) => {
 
 
 
-app.listen(3030, console.log("Online"))
+app.listen(3030, console.log("Online in port: http://localhost:3030"))
